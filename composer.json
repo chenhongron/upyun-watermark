@@ -1,0 +1,11 @@
+{
+    "name": "upyun-watermark",
+    "description": "this is a Upyun api",
+    "authors": [
+        {
+            "name": "Ron",
+            "email": "chenhongron@163.com"
+        }
+    ],
+    "require": {}
+}
