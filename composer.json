@@ -8,7 +8,7 @@
         }
     ],
     "autoload": {
-        "psr-4": { "Rivsen\\Demo\\": "src" }
+        "psr-4": { "Upyun\\VideoHelp\\": "src" }
     },
     "require": {}
 }
