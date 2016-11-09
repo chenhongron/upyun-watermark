@@ -1,10 +1,14 @@
 # upyun-watermark
 upyun watermark of video
 
-Ê¹ÓÃUpyun·â×°µÄ³£¼ûÊÓÆµ²Ù×÷Àà
-¿ÉÓÃÓÚÔÚÊÓÆµÊ²Ã´Ê±¼ä¡¢Ê²Ã´µØ·½¡¢´ò¶à³¤¶à´óµÄË®Ó¡
+ä½¿ç”¨Upyunå°è£…çš„å¸¸è§è§†é¢‘æ“ä½œç±»
 
-createthumbnailByUpyunApi()  Éú³É½ØÍ¼
-cutVideoByUpyunApi()         ¼ôÇĞÊÓÆµ
-watermarkVideoByUpyunApi()   ¸øÊÓÆµ´òË®Ó¡
-mergeVideoByUpyunApi()       ºÏ²¢ÊÓÆµ
+å¯ç”¨äºåœ¨è§†é¢‘ä»€ä¹ˆæ—¶é—´ã€ä»€ä¹ˆåœ°æ–¹ã€æ‰“å¤šé•¿å¤šå¤§çš„æ°´å°
+
+createthumbnailByUpyunApi()  ç”Ÿæˆæˆªå›¾
+
+cutVideoByUpyunApi()         å‰ªåˆ‡è§†é¢‘
+
+watermarkVideoByUpyunApi()   ç»™è§†é¢‘æ‰“æ°´å°
+
+mergeVideoByUpyunApi()       åˆå¹¶è§†é¢‘
